@@ -1,11 +1,5 @@
 # RElative STrength Of Relative Eigenvectors (RESTORE) 
-<style>
-  .blue-text {
-    color: blue;
-  }
-</style>
-
-This text will be <span class="blue-text">blue</span>.
+<!-- ${\color{#D41C5C}RE}{lative}$ ${\color{#00B0F0}ST}{rength}$ ${\color{#FF00FF}O}{f}$ ${\color{#9900FF}R}{elative}$ ${\color{#70AD47}E}{igenvectors}$ -->
 
 
 ![RESTOREchart](https://github.com/Patrick-Wen/RESTORE/assets/100295693/955fb2f9-bbc1-4cb2-910a-e5993e7d5ab9)
