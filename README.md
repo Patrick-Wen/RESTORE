@@ -11,7 +11,7 @@ Large deviations of ratio of generalised variance from 1 suggests variance in on
 We propose a measure named RElative STrength Of Relative Eigenvectors (RESTORE) that quantifies shape variance captured by relative eigenvectors. This measure complements the ratio of generalised variance by associating relative eigenvectors to shape variance. Joint interpretation of both measures would “RESTORE” a contextual understanding of the variance between two groups.
 
 ## Analytical pipeline for RESTORE score derivation
-A schematic illustration of the measure of RESTORE is provided in Fig SX. A step-by-step exposition of the procedures for deriving the RESTORE measure is provided. The R script for calculating the RESTORE measure is provided in Text Sx. We indicate the R script output along with the following descriptions of the mathematical procedures to facilitate understanding of the method and R script.
+A schematic illustration of the measure of RESTORE is provided in Fig SX. A step-by-step exposition of the procedures for deriving the RESTORE measure is provided. The R script for calculating the RESTORE measure is provided in Text Sx. In the following descriptions of the analytical pipeline, output from the R script is indicated where appropriate to facilitate understanding of the method and R script.
 
 ### Stage 1
 Generalized Procrustes Analysis (GPA) is performed based on raw landmark coordinates of both groups (Dimension of $N×pk$, where $N$ is the total sample size in both groups combined, $p$ is the number of landmarks, and $k$ is the dimension of landmarks, which is 2 or 3). This yields GPA-aligned landmark coordinates.
