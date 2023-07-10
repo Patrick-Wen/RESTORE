@@ -1,5 +1,5 @@
 # RElative STrength Of Relative Eigenvectors (RESTORE) 
-# <span style="color: #FF0000;">RE</span>lative STrength
+# <span style="color: red;">RE</span>lative STrength
 ![RESTOREchart](https://github.com/Patrick-Wen/RESTORE/assets/100295693/955fb2f9-bbc1-4cb2-910a-e5993e7d5ab9)
 
 ## Descriptions of the measure of RElative STrength Of Relative Eigenvectors (RESTORE)
