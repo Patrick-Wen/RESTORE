@@ -35,7 +35,7 @@ We first subset the $N×M$ matrix of individuals’ scores along the $M$ relativ
 
 
 ## Summary
-The RESTORE score is essentially assessing whether the directions of relative eigenvectors are aligned with the directions of GPA-aligned landmark coordinates. The score would be high if they are aligned, and the relative eigenvectors would have a strong impact on the observed morphological variations. If the score is low, relative eigenvectors would not strongly impact observed morphological variations, regardless of the magnitude of ratio of generalised variance. RESTORE score is applicable to other research fields where it is necessary to determine alignment of relative eigenvectors with directions of variations of multivariate or high-dimensional data.
+The RESTORE score is essentially assessing whether the directions of relative eigenvectors are aligned with the directions of variation of GPA-aligned landmark coordinates. The score would be high if they are aligned, and the relative eigenvectors would have a strong impact on the observed morphological variations. If the score is low, relative eigenvectors would not strongly impact observed morphological variations, regardless of the magnitude of ratio of generalised variance. RESTORE score is applicable to other research fields where it is necessary to determine alignment of relative eigenvectors with directions of variations of multivariate or high-dimensional data.
 
 
 ## References
