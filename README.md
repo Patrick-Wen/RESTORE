@@ -1,6 +1,6 @@
 # RElative STrength Of Relative Eigenvectors (RESTORE) 
 Descriptions of the measure of RElative STrength Of Relative Eigenvectors (RESTORE) 
-![RESTOREchart](E:/Research/GM/Self-learning/RESTORE/RESTOREchart.svg)
+<img src="E:/Research/GM/Self-learning/RESTORE/RESTOREchart.svg">
 
 ## Background
 Relative Principal Component Analysis (PCA), namely relative eigenanalysis, deals with the comparison of two covariance matrices. Its mathematical details have been described by Flury.<sup>1,2</sup> The method was introduced into the field of geometric morphometrics by Bookstein and Mitteroecker.<sup>3</sup> An R package named `vcvComp` was developed by Maître and Mitteroecker for implementation of relative PCA with a focus on its applications in geometric morphometrics.<sup>4</sup> 
