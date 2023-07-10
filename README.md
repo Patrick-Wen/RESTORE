@@ -1,10 +1,10 @@
 # RESTORE
 RElative STrength Of Relative Eigenvectors (RESTORE) 
 Descriptions of the measure of RElative STrength Of Relative Eigenvectors (RESTORE) 
-///
+```
 Background
 Relative Principal Component Analysis (PCA), namely relative eigenanalysis, deals with the comparison of two covariance matrices. Its mathematical details have been described by Flury.1,2 The method was introduced into the field of geometric morphometrics by Bookstein and Mitteroecker.3 An R package named vcvComp was developed by Maître and Mitteroecker for implementation of relative PCA with a focus on its applications in geometric morphometrics.4 
-///
+```
 Relative PCA is implemented through eigendecomposition of S_B^- S_A in vcvComp, where S_A and S_B are the covariance matrices of shape variables for two groups, and S_B^- denotes the pseudoinverse of S_B. The ratio of generalised variance, defined as the product of all relative eigenvalues, is a scalar summary of the overall relative magnitude of variance between two groups. In the context of geometric morphometrics, a ratio of generalised variance greater than 1 suggests excess shape variance in group A. If groups A and B comprise individuals at juvenile and adult stage of a species, a ratio of generalised variance greater and smaller than 1 would indicate reduced and increased shape variance with development, respectively. 
 
 Large deviations of ratio of generalised variance from 1 suggests variance in one group is large relative to variance in the other group. However, this provides no indication to the impact of relative eigenvectors on observed morphological variations. It is possible to have a large ratio of generalised variance but the actual variance explained by the relative eigenvectors is small. In geometric morphometric analysis of ontogenetic series, this would indicate that although shape variance is strongly developmentally reduced, this would not have a substantial impact on observed morphological variations in the sample. On the other hand, if a large ratio of generalised variance is accompanied by a high proportion of variance explained by the relative eigenvectors, the strongly developmentally constrained shape features would contribute importantly to a converged adult shape (i.e., observed morphological variations would shrink to be primarily lying along the directions of relative eigenvectors).
