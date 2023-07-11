@@ -1,8 +1,7 @@
 # RElative STrength Of Relative Eigenvectors (RESTORE) 
 <!-- ${\color{#D41C5C}RE}{lative}$ ${\color{#00B0F0}ST}{rength}$ ${\color{#FF00FF}O}{f}$ ${\color{#9900FF}R}{elative}$ ${\color{#70AD47}E}{igenvectors}$ -->
 
-
-![RESTOREchart](https://github.com/Patrick-Wen/RESTORE/assets/100295693/955fb2f9-bbc1-4cb2-910a-e5993e7d5ab9)
+![RESTOREchart](https://github.com/Patrick-Wen/RESTORE/assets/100295693/b0d31458-6635-4d4a-be93-cf2b896a9cc1)
 
 ## Descriptions of the measure of RElative STrength Of Relative Eigenvectors (RESTORE)
 
