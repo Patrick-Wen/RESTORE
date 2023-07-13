@@ -51,3 +51,4 @@ The RESTORE score is essentially assessing whether the directions of relative ei
 3.	Bookstein FL, Mitteroecker P. Comparing covariance matrices by relative eigenanalysis, with applications to organismal biology. Evol Biol 2014; 41: 336-50.
 4.	Le Maître A, Mitteroecker P. Multivariate comparison of variance in R. Methods Ecol Evol 2019; 10(9): 1380-92.
 
+The logo is created by DALL·E.
