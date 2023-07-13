@@ -1,7 +1,7 @@
 # RElative STrength Of Relative Eigenvectors (RESTORE) 
 <!-- ${\color{#D41C5C}RE}{lative}$ ${\color{#00B0F0}ST}{rength}$ ${\color{#FF00FF}O}{f}$ ${\color{#9900FF}R}{elative}$ ${\color{#70AD47}E}{igenvectors}$ -->
 
-![RESTOREchart](https://github.com/Patrick-Wen/RESTORE/assets/100295693/acd6079f-3bf6-4097-b466-aca51305cd20)
+![RESTOREchart](https://github.com/Patrick-Wen/RESTORE/assets/100295693/301c2aa1-6470-442c-8fa8-15b0eea67ad2)
 
 ## An introduction to RElative STrength Of Relative Eigenvectors (RESTORE)
 
