@@ -39,7 +39,7 @@ We first subset the $N×M$ matrix of individuals’ scores along the $M$ relativ
 
 
 ### Interpretation
-The merit of RESTORE score is that a low value would suggest that the difference in covariance structure between two groups is not a key source of morphological variation in the pooled data. Results from relative PCA should not be overinterpreted in this condition. A high value of RESTORE score is not of interest per purpose of RESTORE. It suggests that the difference in covariance structure between two groups explains a large proportion of the observed variation in the pooled data. It should be noted, however, that this provides no guarantee that the explained variations are aligned with between-group differences in mean shape.
+The merit of RESTORE score is that a low value would suggest that the difference in covariance structure between two groups is a trivial explanation for the observed variation (i.e., morphological variation in the context of geometric morphometrics) in the pooled data. Results from relative PCA should not be overinterpreted in this condition. A high value of RESTORE score reflects that data are indeed dispersed along the directions of high variance contrasts, suggesting that between-group difference in covariance structure nontrivially explains the observed data variation.
 
 ### Summary
 The RESTORE score is essentially assessing whether the directions of relative eigenvectors are aligned with the directions of variation of pooled data (GPA-aligned landmark coordinates in the context of geometric morphometrics). Low RESTORE score is of particular interest in that it suggests relative eigenvectors do not strongly impact the observed morphological variations and results from relative PCA should be interpreted with caution.
